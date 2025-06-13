@@ -1,0 +1,31 @@
+body {
+  font-size: 26px;
+}
+
+h1 {
+  color: green;
+}
+
+p {
+  color: purple;
+}
+
+.L2 {
+  color: blue;
+}
+.experimenting {
+  text-transform: uppercase;
+  background-color: gold;
+}
+
+#exp {
+  color: darkgrey;
+}
+
+.experiment {
+  color: brown;
+}
+
+h3 {
+  color: blue;
+}
